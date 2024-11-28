@@ -1,10 +1,3 @@
 # Física del Plasma
 
-## Inestabilidad Magnetorotacional
-
-### Integrantes
-- Brayan Amorocho
-- Dylan Castellanos
-- Juan Pablo Celis
-
-
+Compilado del trabajo realizado en el curso de Física del Plasma en el semestre 2024-2.
